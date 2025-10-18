@@ -5,7 +5,7 @@
 **Professor:** Prof. Dr. Fábio Santos da Silva
 
 📂 **Repositório do Projeto Acadêmico no GitHub:** [FruitsVeggies_ML_Aplicada1]([https://github.com/Cristie-Lima/e-SUS_Sinan_Mpox_ML-Workflow](https://github.com/Cristie-Lima/FruitsVeggies_ML_Aplicada1)  
-📂 **Apresentação**: [apresentacao_cristie_mod6_proj_final](https://notebooksharing.space/view/ad4ad08282cd79b1e1142bf85b9efe75919dd5bbd9a2bf66d6e493c50283e537#displayOptions=)
+📂 **Apresentação**: [apresentacao](link pendente)
 
 👩‍🎓 **Equipe:**  
 - A. Cristiane R. Lima (Cristie), {acrdl.cid25@uea.edu.br}
