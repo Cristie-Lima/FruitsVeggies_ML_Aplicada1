@@ -7,7 +7,7 @@
 📂 **Repositórios do Projeto Acadêmico no GitHub:**  
 1. [fruits_vs_vegetables](https://github.com/csampaio2/fruits_vs_vegetables)  
 2. [FruitsVeggies_ML_Aplicada1](https://github.com/Cristie-Lima/FruitsVeggies_ML_Aplicada1)  
-📂 **Apresentação:** [Projeto Final – Classificação de Frutas, Legumes e Verduras](https://notebooksharing.space/view/cee47e5603ebbaed272c4b8905a06ba44bd21ac0e30796fdd7c4de92b96b6687#displayOptions=show-linenos%7Chide-inputs))  
+📂 **Apresentação:** [Projeto Final – Classificação de Frutas, Legumes e Verduras](https://notebooksharing.space/view/cee47e5603ebbaed272c4b8905a06ba44bd21ac0e30796fdd7c4de92b96b6687#displayOptions=show-linenos%7Chide-inputs)  
 📂 **Dataset:** [Fruits and Vegetables Image Recognition Dataset (KAGGLE)](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition/data)
 
 👩‍🎓 **Equipe:**  
