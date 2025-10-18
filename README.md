@@ -5,7 +5,7 @@
 **Professor:** Prof. Dr. Fábio Santos da Silva
 
 📂 **Repositório do Projeto Acadêmico no GitHub:** [FruitsVeggies_ML_Aplicada1](https://github.com/Cristie-Lima/FruitsVeggies_ML_Aplicada1)  
-📂 **Apresentação**: [Projeto Final – Classificação de Frutas, Legumes e Verduras]([link pendente](https://notebooksharing.space/view/cee47e5603ebbaed272c4b8905a06ba44bd21ac0e30796fdd7c4de92b96b6687#displayOptions=show-linenos%7Chide-inputs))
+📂 **Apresentação**: [Projeto Final – Classificação de Frutas, Legumes e Verduras](https://notebooksharing.space/view/cee47e5603ebbaed272c4b8905a06ba44bd21ac0e30796fdd7c4de92b96b6687#displayOptions=show-linenos%7Chide-inputs))
 
 👩‍🎓 **Equipe:**  
 - A. Cristiane R. Lima (Cristie), {acrdl.cid25@uea.edu.br}
