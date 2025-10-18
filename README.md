@@ -1,7 +1,8 @@
 # 📊 Pós-graduação em Ciência de Dados (2025/2026)  
 
 **Escola Superior de Tecnologia da Universidade Estadual do Amazonas - EST/UEA**  
-**Disciplina:** Machine Learning Aplicado I
+**Disciplina:** Machine Learning Aplicado I  
+
 **Professor:** Prof. Dr. Fábio Santos da Silva
 
 📂 **Repositórios do Projeto Acadêmico no GitHub:**  
@@ -10,6 +11,7 @@
 
 📂 **Apresentação:** [Projeto Final – Classificação de Frutas, Legumes e Verduras](https://notebooksharing.space/view/cee47e5603ebbaed272c4b8905a06ba44bd21ac0e30796fdd7c4de92b96b6687#displayOptions=show-linenos%7Chide-inputs)  
 📂 **Dataset:** [Fruits and Vegetables Image Recognition Dataset (KAGGLE)](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition/data)
+
 
 👩‍🎓 **Equipe:**  
 - A. Cristiane R. Lima (Cristie), {acrdl.cid25@uea.edu.br}
